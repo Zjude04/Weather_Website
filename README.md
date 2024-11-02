@@ -1,2 +1,2 @@
-# Weather_Website
-Front-End Weather Web Application with API integration for live data retrieval
+# RainBro's Weather Website
+Weather Web Application that supports live data retrieval using National Weather Service public API. Written using django back-end to from requests the API endpoints returning weather data as either daily or weekly. Users could create an account which would hold input zip code to save users personal forcast. Additional features included a styled landing page, sms notifications to the phone, and daily affirmations. 
